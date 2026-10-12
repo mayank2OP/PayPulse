@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Gradle build output
+build/
+.gradle/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation
+*.md
+
+# Docker files (not needed inside image)
+docker-compose.yml
